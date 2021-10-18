@@ -1,0 +1,135 @@
+body{
+	padding:0;
+	margin:0;
+}
+
+img{
+	position:absolute;
+}
+
+.turtle {
+  left: 715px;
+  top: 490px;
+  width: 164px;
+  height: 98px;
+  z-index: 2;
+}
+
+.Layer_2 {
+  left: 355px;
+  top: 412px;
+  width: 290px;
+  height: 78px;
+  z-index: 3;
+}
+
+
+.Layer_46 {
+  left: 0px;
+  top: 0px;
+  width: 1000px;
+  height: 559px;
+  z-index: 1;
+}
+
+
+._3_copy {
+  left: 676px;
+  top: 448px;
+  width: 324px;
+  height: 208px;
+  z-index: 2;
+}
+
+
+.A_Turtle_s_Life {
+  position: absolute;
+  left: 271px;
+  top: 133px;
+  z-index: 4;
+}
+
+
+.dialog_1 {
+  left: 140px;
+  top: 492px;
+  width: 536px;
+  height: 120px;
+  z-index: 3;
+}
+
+.text_1 {
+  font-size: 20px;
+  font-family: "Copperplate";
+  color: rgb(72, 42, 33);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 0.99999999765152,0.0000685343487,-0.0000685343487,0.99999999765152,0,0);
+  -webkit-transform: matrix( 0.99999999765152,0.0000685343487,-0.0000685343487,0.99999999765152,0,0);
+  -ms-transform: matrix( 0.99999999765152,0.0000685343487,-0.0000685343487,0.99999999765152,0,0);
+  position: absolute;
+  left: 192.143px;
+  top: 512px;
+  width: 414.714px;
+  height: 83px;
+  z-index: 4;
+}
+
+
+.no_smoke {
+  left: 299px;
+  top: 452px;
+  width: 683px;
+  height: 186px;
+  z-index: 2;
+}
+
+
+.smoke {
+  left: 299px;
+  top: 430px;
+  width: 684px;
+  height: 208px;
+  z-index: 3;
+opacity:0;
+}
+
+.smoke:hover{
+	opacity:1;
+}
+
+.chef {
+  left: 277px;
+  top: 190px;
+  width: 187px;
+  height: 193px;
+  z-index: 4;
+}
+
+.boat {
+  left: 175px;
+  top: 176px;
+  z-index: 2;
+}
+
+.super_turtle {
+  left: 370px;
+  top: 450px;
+  z-index: 1;
+}
+.dead_turtle {
+  left: 336px;
+  top: 234px;
+  width: 330px;
+  height: 149px;
+  z-index: 7;
+}
+
+.youtube {
+  left: 878px;
+  top: 557px;
+  width: 93px;
+  height: 66px;
+  z-index: 8;
+}
+
